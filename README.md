@@ -1,5 +1,5 @@
 # zammad-mobile-css
-CSS modification for mobile devices (tested on Zammad version 3.1.x)
+CSS modification for mobile devices (tested on Zammad version 3.5)
 
 1. Create /opt/zammad/public/assets/custom-mobile.css and paste the mobile.css.
 2. Modify /etc/nginx/sites-enabled/zammad.conf and add the following under location / section:
